@@ -62,7 +62,7 @@ gen VARCHAR(50)
 DROP TABLE IF EXISTS Bronze_Datawarehouse.erp_cat_g1v2;
 CREATE TABLE Bronze_Datawarehouse.erp_cat_g1v2(
 id VARCHAR(50),
-cat DATETIME,
+cat VARCHAR(50),
 subcat VARCHAR(50),
 maintenance VARCHAR(50)
 );
