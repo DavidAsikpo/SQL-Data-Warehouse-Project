@@ -22,6 +22,9 @@ Build a scalable data warehouse on MySQL that consolidates sales records into a 
 
 ---
 
+## Data Architecture
+![Sales Data Model](docs/diagram.png)
+
 ### 📊 Analytics & Insights (SQL Reporting)
 
 **Goal**
@@ -38,6 +41,7 @@ These insights equip stakeholders with data-backed KPIs to support better strate
 ## ⚙️ Tech Stack
 
 * **Database**: MySQL, Python
+* **DataDrawing**: Drawio
 * **Data Integration**: Manual ETL workflows (SQL-based transformations)
 * **Data Sources**: ERP and CRM systems
 * **Modeling**: Star-schema style analytical model for queries and reporting
