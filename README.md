@@ -23,7 +23,7 @@ Build a scalable data warehouse on MySQL that consolidates sales records into a 
 ---
 
 ## Data Architecture
-![Sales Data Model](docs/diagram.png)
+![Sales Data Model](docs/Sql Warehouse Project.drawio)
 
 ### 📊 Analytics & Insights (SQL Reporting)
 
