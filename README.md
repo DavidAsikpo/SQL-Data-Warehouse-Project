@@ -37,7 +37,7 @@ These insights equip stakeholders with data-backed KPIs to support better strate
 
 ## ⚙️ Tech Stack
 
-* **Database**: MySQL,Python
+* **Database**: MySQL, Python
 * **Data Integration**: Manual ETL workflows (SQL-based transformations)
 * **Data Sources**: ERP and CRM systems
 * **Modeling**: Star-schema style analytical model for queries and reporting
